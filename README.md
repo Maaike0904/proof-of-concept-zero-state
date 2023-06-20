@@ -17,7 +17,8 @@
 ![WhatsApp Image 2023-06-18 at 23 12 54](https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/d4546154-5015-4d48-86c2-f6b566a79440)
 
 * Met feedback van Ivar:
-![WhatsApp Image 2023-06-18 at 23 12 54](https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/3b751783-6e7d-4720-af61-0a3f982a5547)
+<br>Ik heb Ivar om feedback gevraagd omdat hij nog niets over de opdracht wist. Dit is dus een goede test om te checken of mijn schetsen duidelijk zijn voor iemand die dit als eerste bekijkt.
+<br>![WhatsApp Image 2023-06-18 at 23 12 54](https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/3b751783-6e7d-4720-af61-0a3f982a5547)
 
 ## 3 uitgewerkte versies
 <img width="654" alt="Scherm­afbeelding 2023-06-14 om 13 50 08" src="https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/f2c6563f-8208-46a0-9110-e5f16630603e">
