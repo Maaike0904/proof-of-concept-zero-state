@@ -2,12 +2,16 @@
 # Zero state
 
 ## Inhoudsopgave
-* Eerste schetsen
+* Eerste ontwerp homepage
+* Schetsen aan de hand van eerste ontwerp
 * 3 Uitgewerkte versies
 * Feedback van de opdrachtgever
 * Licensie
 
-## Eerste schetsen
+## Eerste ontwerp homepage
+<img width="554" alt="Scherm­afbeelding 2023-06-20 om 15 42 28" src="https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/f80e0b4f-2ff3-43bf-8d8a-a6a7bfef1699">
+
+## Schetsen aan de hand van eerste ontwerp
 ![WhatsApp Image 2023-06-18 at 23 12 54](https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/ca83a961-2a20-4b3f-a7aa-d60471754637)
 
 ![WhatsApp Image 2023-06-18 at 23 12 54](https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/d4546154-5015-4d48-86c2-f6b566a79440)
