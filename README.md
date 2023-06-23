@@ -27,11 +27,9 @@
 
 ## Feedback van de opdrachtgever
 <img width="603" alt="Scherm­afbeelding 2023-06-18 om 23 15 56" src="https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/b5849b51-269f-4b06-9deb-feaaa6801a46">
-<img width="1423" alt="Scherm­afbeelding 2023-06-22 om 11 55 06" src="https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/424b5ec3-167b-41c8-bbc0-bc452e3e895b">
 
 ## Homepage na de feedback
 <img width="603" alt="Scherm­afbeelding 2023-06-22 om 11 55 06" src="https://github.com/Maaike0904/proof-of-concept-zero-state/assets/112861144/e5cd6910-ec85-47e2-9f61-6711e487602f">
-
 
 ## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
